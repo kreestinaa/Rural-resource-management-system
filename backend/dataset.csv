@@ -1,0 +1,151 @@
+school_id,name,emis,district,province,student_teacher_ratio,infrastructure_deficit,material_shortage,geographic_difficulty,socioeconomic_index,mcda_score,predicted_tier,actual_tier,correct
+164,Tribhuvan Jajarkot Basic School,NP46256,Jajarkot,karnali,64.3,94.5,86.8,85.6,87.7,0.911296,High,High,yes
+180,Bhanu Jumla Community School,NP73401,Jumla,karnali,63.8,94.5,87.3,86.5,78.2,0.898572,High,High,yes
+178,Himalaya Salyan Basic School,NP89789,Salyan,karnali,72.0,82.9,77.7,90.0,87.9,0.890343,High,High,yes
+165,Tribhuvan Kalikot Community School,NP86154,Kalikot,karnali,68.2,78.4,83.8,93.1,88.3,0.877802,High,High,yes
+166,Gyanodaya Jajarkot Primary School,NP94612,Jajarkot,karnali,59.6,90.9,85.7,90.7,85.5,0.875213,High,High,yes
+156,Bal Kalyan Mugu Lower Secondary School,NP18167,Mugu,karnali,61.6,79.9,90.0,90.7,89.5,0.863985,High,High,yes
+163,Navajyoti Surkhet Secondary School,NP54794,Surkhet,karnali,66.4,76.0,84.2,76.6,92.1,0.836451,High,High,yes
+157,Himalaya Dailekh Basic School,NP82410,Dailekh,karnali,67.7,65.3,82.3,89.7,94.5,0.824633,High,High,yes
+152,Bhanu Surkhet Ma Vi,NP29132,Surkhet,karnali,63.4,69.8,87.3,90.0,87.7,0.824402,High,High,yes
+162,Janapriya Surkhet Primary School,NP44349,Surkhet,karnali,67.1,75.6,78.8,86.1,80.1,0.822518,High,High,yes
+158,Shree Humla Basic School,NP79833,Humla,karnali,66.2,81.1,72.4,81.6,88.5,0.822131,High,High,yes
+170,Janata Dailekh Basic School,NP60842,Dailekh,karnali,54.9,87.4,76.9,89.9,87.4,0.811245,High,High,yes
+199,Navajyoti Bajura Basic School,NP33733,Bajura,sudurpashchim,59.7,85.9,71.3,85.5,77.2,0.792671,High,High,yes
+168,Bhanu Humla Lower Secondary School,NP10184,Humla,karnali,44.5,85.4,88.2,94.8,87.1,0.790347,High,High,yes
+204,Janahit Darchula Basic School,NP28479,Darchula,sudurpashchim,58.4,87.0,77.6,68.1,72.7,0.77188,High,High,yes
+198,Navajyoti Darchula Secondary School,NP87575,Darchula,sudurpashchim,63.0,70.2,87.3,72.3,68.0,0.765125,High,High,yes
+169,Pragati Salyan Primary School,NP50415,Salyan,karnali,47.7,88.0,82.8,75.5,83.7,0.761914,High,High,yes
+205,Janapriya Baitadi Basic School,NP64904,Baitadi,sudurpashchim,59.2,67.3,80.8,90.6,78.2,0.760559,High,High,yes
+173,Navajyoti Salyan Primary School,NP93170,Salyan,karnali,49.8,89.0,67.8,81.4,93.5,0.755235,High,High,yes
+155,Himalaya Dailekh Basic School,NP24739,Dailekh,karnali,49.1,76.0,84.2,82.4,89.9,0.750166,High,High,yes
+172,Janahit Surkhet Lower Secondary School,NP50034,Surkhet,karnali,46.1,76.0,82.5,92.7,89.8,0.746869,High,High,yes
+160,Himalaya Salyan Secondary School,NP54976,Salyan,karnali,56.8,74.6,70.2,86.9,85.8,0.746226,High,High,yes
+195,Pragati Darchula Primary School,NP83358,Darchula,sudurpashchim,60.6,63.9,76.7,86.7,83.3,0.7432,High,High,yes
+161,Himalaya Kalikot Ma Vi,NP40081,Kalikot,karnali,56.5,78.5,67.8,75.2,94.0,0.742331,High,High,yes
+196,Saraswati Darchula Ma Vi,NP68646,Darchula,sudurpashchim,62.4,88.7,60.7,65.2,70.0,0.739394,High,High,yes
+151,Janapriya Kalikot Ma Vi,NP38710,Kalikot,karnali,51.9,84.3,60.6,86.9,88.4,0.72994,High,High,yes
+153,Shree Kalikot Ma Vi,NP13409,Kalikot,karnali,56.5,76.7,63.9,79.1,91.9,0.727787,High,High,yes
+177,Adarsha Dailekh Secondary School,NP88088,Dailekh,karnali,47.9,86.0,62.2,88.0,91.5,0.725719,High,High,yes
+203,Bal Kalyan Kanchanpur Secondary School,NP59605,Kanchanpur,sudurpashchim,47.1,90.1,63.0,86.6,82.6,0.724207,High,High,yes
+176,Rastriya Jumla Basic School,NP15980,Jumla,karnali,58.1,67.6,70.4,80.1,88.7,0.719943,High,High,yes
+182,Jana Jyoti Achham Lower Secondary School,NP46557,Achham,sudurpashchim,44.3,91.4,75.0,71.1,77.3,0.715685,High,High,yes
+190,Himalaya Bajhang Basic School,NP97357,Bajhang,sudurpashchim,54.0,80.3,62.6,79.8,83.1,0.712691,High,High,yes
+192,Adarsha Doti Basic School,NP91184,Doti,sudurpashchim,55.6,72.6,66.4,77.3,87.6,0.706246,High,High,yes
+191,Adarsha Dadeldhura Basic School,NP63442,Dadeldhura,sudurpashchim,42.4,88.3,67.5,85.3,82.8,0.703839,High,High,yes
+171,Himalaya Surkhet Ma Vi,NP77620,Surkhet,karnali,51.5,76.0,63.2,80.2,93.6,0.700336,High,High,yes
+183,Pragati Darchula Lower Secondary School,NP80651,Darchula,sudurpashchim,42.6,80.1,72.7,86.4,87.1,0.698344,High,High,yes
+181,Saraswati Dadeldhura Secondary School,NP88696,Dadeldhura,sudurpashchim,52.1,77.5,70.4,72.8,75.3,0.692661,High,High,yes
+197,Gyanodaya Darchula Secondary School,NP12122,Darchula,sudurpashchim,48.8,80.9,61.3,77.7,91.4,0.6906,High,High,yes
+154,Gyanodaya Dailekh Ma Vi,NP52905,Dailekh,karnali,41.3,79.4,72.5,90.8,81.3,0.687888,High,High,yes
+179,Himalaya Rukum West Primary School,NP68292,Rukum West,karnali,42.6,82.6,63.8,84.3,94.7,0.687248,High,High,yes
+200,Tribhuvan Darchula Secondary School,NP24569,Darchula,sudurpashchim,40.9,71.5,79.0,83.1,88.6,0.672788,High,High,yes
+167,Gyanodaya Dolpa Basic School,NP39493,Dolpa,karnali,45.8,83.9,61.3,79.7,78.5,0.671178,High,High,yes
+257,Pragati Mahottari Lower Secondary School,NP52810,Mahottari,madhesh,71.6,74.5,61.3,20.5,78.1,0.67048,High,Medium,no
+194,Bal Kalyan Kanchanpur Basic School,NP61109,Kanchanpur,sudurpashchim,50.9,71.7,70.0,67.2,84.4,0.666175,High,High,yes
+188,Janahit Doti Community School,NP52413,Doti,sudurpashchim,63.1,59.1,59.4,85.7,68.8,0.664392,High,High,yes
+193,Janata Achham Basic School,NP48503,Achham,sudurpashchim,46.0,83.6,61.3,69.5,77.8,0.652117,High,High,yes
+186,Rastriya Kanchanpur Lower Secondary School,NP39231,Kanchanpur,sudurpashchim,55.1,60.9,59.7,84.3,79.9,0.641594,High,High,yes
+254,Himalaya Bara Secondary School,NP45664,Bara,madhesh,61.9,73.7,72.0,14.7,77.0,0.635918,High,Medium,no
+175,Adarsha Dailekh Ma Vi,NP11733,Dailekh,karnali,42.2,75.3,62.6,83.5,81.7,0.635033,High,High,yes
+202,Tribhuvan Bajhang Basic School,NP21602,Bajhang,sudurpashchim,45.0,62.8,73.2,77.5,87.5,0.633653,High,High,yes
+185,Bal Kalyan Kanchanpur Basic School,NP63951,Kanchanpur,sudurpashchim,35.5,72.9,80.8,85.1,70.3,0.632494,High,High,yes
+264,Pragati Rautahat Primary School,NP94792,Rautahat,madhesh,66.4,75.1,52.7,24.4,81.7,0.630257,High,Medium,no
+174,Navajyoti Surkhet Community School,NP32326,Surkhet,karnali,40.6,74.2,69.6,76.3,79.3,0.627587,High,High,yes
+159,Jana Jyoti Jumla Lower Secondary School,NP97667,Jumla,karnali,41.0,70.4,62.5,91.1,83.6,0.626207,High,High,yes
+201,Navajyoti Darchula Lower Secondary School,NP13533,Darchula,sudurpashchim,48.3,67.3,56.6,91.0,73.1,0.621514,High,High,yes
+259,Tribhuvan Saptari Community School,NP56238,Saptari,madhesh,61.1,70.8,74.9,21.5,59.3,0.617271,Medium,Medium,yes
+249,Rastriya Siraha Primary School,NP63243,Siraha,madhesh,58.8,71.9,65.6,23.6,80.0,0.612903,Medium,Medium,yes
+258,Saraswati Sarlahi Ma Vi,NP75793,Sarlahi,madhesh,63.4,66.0,73.7,19.3,63.3,0.60993,Medium,Medium,yes
+267,Janapriya Rautahat Lower Secondary School,NP41525,Rautahat,madhesh,59.6,72.6,68.4,24.6,63.8,0.607717,Medium,Medium,yes
+184,Bal Kalyan Darchula Community School,NP21250,Darchula,sudurpashchim,36.2,79.0,64.7,73.4,82.9,0.606459,Medium,High,no
+255,Bhanu Mahottari Basic School,NP42329,Mahottari,madhesh,64.8,69.7,52.8,22.0,79.8,0.595065,Medium,Medium,yes
+187,Navajyoti Baitadi Lower Secondary School,NP31185,Baitadi,sudurpashchim,43.7,65.3,65.4,70.7,74.5,0.582068,Medium,High,no
+253,Janahit Mahottari Basic School,NP53594,Mahottari,madhesh,72.6,59.1,55.7,15.2,64.0,0.572971,Medium,Medium,yes
+252,Jana Jyoti Mahottari Basic School,NP88943,Mahottari,madhesh,61.6,76.2,54.7,10.5,68.7,0.57188,Medium,Medium,yes
+218,Janata Arghakhanchi Ma Vi,NP73201,Arghakhanchi,lumbini,49.7,68.8,59.4,46.8,69.9,0.560464,Medium,Medium,yes
+251,Shree Mahottari Community School,NP65902,Mahottari,madhesh,74.1,56.5,56.0,11.9,58.0,0.558236,Medium,Medium,yes
+265,Jana Jyoti Bara Primary School,NP45709,Bara,madhesh,55.1,60.2,72.2,19.7,75.6,0.556763,Medium,Medium,yes
+225,Janahit Pyuthan Secondary School,NP91758,Pyuthan,lumbini,51.4,65.1,64.0,42.8,59.7,0.548802,Medium,Medium,yes
+256,Pragati Dhanusha Ma Vi,NP93880,Dhanusha,madhesh,53.3,62.9,69.3,23.5,68.4,0.544949,Medium,Medium,yes
+261,Himalaya Siraha Basic School,NP54633,Siraha,madhesh,58.0,71.8,48.4,16.7,80.5,0.544242,Medium,Medium,yes
+189,Janahit Baitadi Primary School,NP54832,Baitadi,sudurpashchim,39.7,63.9,57.8,74.3,69.7,0.531835,Medium,High,no
+266,Janapriya Parsa Primary School,NP97959,Parsa,madhesh,63.3,64.5,42.9,23.2,66.3,0.520996,Medium,Medium,yes
+248,Saraswati Sarlahi Primary School,NP71519,Sarlahi,madhesh,67.8,54.4,45.2,10.1,70.4,0.497452,Medium,Medium,yes
+213,Shree Rolpa Primary School,NP25968,Rolpa,lumbini,45.3,55.0,69.5,55.5,45.0,0.497405,Medium,Medium,yes
+271,Janahit Terhathum Basic School,NP53102,Terhathum,province1,51.5,60.6,59.0,34.2,54.4,0.494896,Medium,Medium,yes
+263,Shree Bara Lower Secondary School,NP32120,Bara,madhesh,53.6,69.6,49.8,14.6,66.7,0.493784,Medium,Medium,yes
+250,Shree Dhanusha Basic School,NP84092,Dhanusha,madhesh,58.3,46.1,73.3,12.0,59.2,0.48895,Medium,Medium,yes
+278,Bhanu Dhankuta Ma Vi,NP91940,Dhankuta,province1,47.9,65.5,57.7,40.8,43.1,0.485653,Medium,Medium,yes
+260,Pragati Bara Lower Secondary School,NP38569,Bara,madhesh,55.0,56.3,59.9,15.9,62.6,0.479589,Medium,Medium,yes
+245,Shree Myagdi Community School,NP63145,Myagdi,gandaki,43.1,54.7,63.8,50.6,59.8,0.478818,Medium,Medium,yes
+208,Janahit Kapilvastu Primary School,NP86350,Kapilvastu,lumbini,50.0,57.4,58.5,27.3,66.0,0.477254,Medium,Medium,yes
+270,Jana Jyoti Okhaldhunga Secondary School,NP63259,Okhaldhunga,province1,48.4,54.9,49.4,49.8,67.8,0.473952,Medium,Medium,yes
+214,Bhanu Pyuthan Ma Vi,NP93315,Pyuthan,lumbini,53.5,56.4,55.9,22.5,63.7,0.472866,Medium,Medium,yes
+242,Bal Kalyan Myagdi Lower Secondary School,NP51101,Myagdi,gandaki,45.8,60.0,53.8,59.1,41.4,0.472129,Medium,Medium,yes
+231,Rastriya Lamjung Primary School,NP46080,Lamjung,gandaki,36.7,66.4,55.8,53.4,60.9,0.469582,Medium,Medium,yes
+209,Rastriya Pyuthan Ma Vi,NP14208,Pyuthan,lumbini,45.5,53.0,54.8,55.6,55.4,0.460834,Medium,Medium,yes
+232,Janahit Parbat Primary School,NP16811,Parbat,gandaki,41.2,54.1,58.3,53.0,56.6,0.449384,Medium,Medium,yes
+221,Gyanodaya Rolpa Lower Secondary School,NP53172,Rolpa,lumbini,47.0,53.0,59.7,24.3,70.1,0.448782,Medium,Medium,yes
+262,Rastriya Rautahat Basic School,NP39886,Rautahat,madhesh,47.5,54.8,63.1,17.5,62.6,0.446091,Medium,Medium,yes
+220,Adarsha Gulmi Lower Secondary School,NP68795,Gulmi,lumbini,37.3,68.2,53.6,46.4,50.5,0.445994,Medium,Medium,yes
+280,Bhanu Sankhuwasabha Basic School,NP79350,Sankhuwasabha,province1,50.4,35.2,62.4,52.0,58.6,0.442713,Medium,Medium,yes
+241,Navajyoti Mustang Ma Vi,NP73773,Mustang,gandaki,45.9,36.5,63.6,68.1,41.9,0.432269,Medium,Medium,yes
+277,Gyanodaya Panchthar Community School,NP66069,Panchthar,province1,51.3,47.1,46.4,59.8,39.0,0.42951,Medium,Medium,yes
+222,Pragati Nawalparasi West Community School,NP29156,Nawalparasi West,lumbini,32.1,54.8,65.1,48.1,63.4,0.424243,Medium,Medium,yes
+275,Bal Kalyan Khotang Community School,NP95564,Khotang,province1,30.7,65.8,63.4,36.5,55.3,0.420427,Medium,Medium,yes
+282,Janapriya Bhojpur Lower Secondary School,NP55481,Bhojpur,province1,50.9,53.0,43.5,43.0,44.5,0.418182,Medium,Medium,yes
+226,Janapriya Arghakhanchi Community School,NP52431,Arghakhanchi,lumbini,36.3,66.1,59.8,30.4,43.0,0.413016,Medium,Medium,yes
+281,Janapriya Khotang Secondary School,NP36878,Khotang,province1,40.5,38.8,58.9,62.3,58.5,0.409945,Medium,Medium,yes
+273,Janapriya Sankhuwasabha Community School,NP74300,Sankhuwasabha,province1,50.8,61.0,32.7,39.6,45.4,0.409524,Medium,Medium,yes
+272,Shree Okhaldhunga Lower Secondary School,NP68485,Okhaldhunga,province1,44.3,64.5,35.4,52.8,38.5,0.409397,Medium,Medium,yes
+283,Bal Kalyan Ilam Primary School,NP44912,Ilam,province1,49.4,53.3,40.1,48.1,42.5,0.407083,Medium,Medium,yes
+227,Saraswati Rolpa Lower Secondary School,NP46099,Rolpa,lumbini,30.5,59.7,55.8,54.3,56.7,0.407075,Medium,Medium,yes
+219,Gyanodaya Bardiya Secondary School,NP75890,Bardiya,lumbini,40.4,51.2,56.1,31.3,66.7,0.403168,Medium,Medium,yes
+233,Adarsha Manang Secondary School,NP25045,Manang,gandaki,39.2,47.1,62.7,44.2,50.0,0.401388,Medium,Medium,yes
+238,Tribhuvan Parbat Community School,NP43367,Parbat,gandaki,30.9,61.3,59.3,50.1,44.2,0.401098,Medium,Medium,yes
+210,Janata Kapilvastu Community School,NP47406,Kapilvastu,lumbini,39.1,47.6,56.4,50.5,50.8,0.395752,Medium,Medium,yes
+247,Shree Baglung Ma Vi,NP51937,Baglung,gandaki,36.0,65.1,44.5,56.2,33.5,0.393601,Medium,Medium,yes
+212,Navajyoti Kapilvastu Lower Secondary School,NP34548,Kapilvastu,lumbini,56.1,42.2,37.4,35.5,57.9,0.393003,Medium,Medium,yes
+217,Shree Bardiya Secondary School,NP48938,Bardiya,lumbini,39.5,44.7,55.3,44.6,63.6,0.391091,Medium,Medium,yes
+234,Janahit Baglung Basic School,NP61319,Baglung,gandaki,25.3,57.1,62.0,67.4,39.7,0.387941,Medium,Medium,yes
+230,Bal Kalyan Lamjung Lower Secondary School,NP81274,Lamjung,gandaki,34.6,50.4,63.7,44.7,40.0,0.37883,Medium,Medium,yes
+237,Rastriya Parbat Community School,NP60013,Parbat,gandaki,37.2,38.6,54.5,59.8,58.8,0.37394,Medium,Medium,yes
+276,Bal Kalyan Dhankuta Lower Secondary School,NP46523,Dhankuta,province1,44.3,39.1,33.0,65.7,67.4,0.370963,Medium,Medium,yes
+206,Janapriya Gulmi Basic School,NP92082,Gulmi,lumbini,34.4,61.9,53.7,28.6,46.3,0.369992,Medium,Medium,yes
+274,Rastriya Udayapur Secondary School,NP20895,Udayapur,province1,32.3,60.3,46.0,39.9,58.0,0.365442,Medium,Medium,yes
+228,Himalaya Tanahun Secondary School,NP38406,Tanahun,gandaki,45.5,35.2,42.5,69.5,36.3,0.355704,Medium,Medium,yes
+285,Himalaya Dhankuta Primary School,NP18868,Dhankuta,province1,30.5,50.8,57.1,36.3,62.6,0.354408,Medium,Medium,yes
+240,Janata Mustang Lower Secondary School,NP90604,Mustang,gandaki,30.8,38.2,58.8,64.3,54.6,0.353136,Medium,Medium,yes
+246,Janapriya Syangja Primary School,NP13038,Syangja,gandaki,35.0,53.5,42.0,51.0,44.7,0.343956,Medium,Medium,yes
+207,Adarsha Kapilvastu Community School,NP20320,Kapilvastu,lumbini,32.6,61.8,38.9,37.5,55.2,0.342842,Medium,Medium,yes
+239,Adarsha Mustang Community School,NP76564,Mustang,gandaki,27.5,53.2,59.4,50.8,33.3,0.339233,Medium,Medium,yes
+236,Tribhuvan Mustang Basic School,NP34014,Mustang,gandaki,25.0,57.4,46.8,57.1,50.1,0.337231,Medium,Medium,yes
+243,Navajyoti Mustang Ma Vi,NP21140,Mustang,gandaki,32.3,39.6,53.7,58.7,49.3,0.333625,Medium,Medium,yes
+269,Adarsha Bhojpur Primary School,NP92339,Bhojpur,province1,25.0,66.4,50.2,35.5,41.3,0.330456,Medium,Medium,yes
+284,Tribhuvan Panchthar Community School,NP17805,Panchthar,province1,45.9,34.4,47.2,33.3,46.0,0.318544,Medium,Medium,yes
+211,Navajyoti Banke Basic School,NP50768,Banke,lumbini,32.6,47.5,48.9,39.5,50.3,0.31721,Medium,Medium,yes
+224,Tribhuvan Nawalparasi West Secondary School,NP66195,Nawalparasi West,lumbini,28.4,67.2,37.8,27.3,53.7,0.316617,Medium,Medium,yes
+229,Navajyoti Syangja Primary School,NP32508,Syangja,gandaki,36.9,44.8,36.4,51.6,47.6,0.310052,Medium,Medium,yes
+216,Tribhuvan Arghakhanchi Secondary School,NP53701,Arghakhanchi,lumbini,32.3,44.4,56.4,29.5,49.6,0.308312,Medium,Medium,yes
+288,Saraswati Makwanpur Lower Secondary School,NP18263,Makwanpur,bagmati,37.0,45.8,38.7,44.2,45.4,0.305155,Medium,Low,no
+223,Janata Palpa Lower Secondary School,NP19799,Palpa,lumbini,30.0,43.7,35.1,55.4,70.5,0.303126,Medium,Medium,yes
+290,Janahit Sindhupalchok Secondary School,NP67570,Sindhupalchok,bagmati,40.1,57.9,28.8,37.7,22.4,0.293154,Medium,Low,no
+268,Shree Solukhumbu Ma Vi,NP29177,Solukhumbu,province1,29.1,58.0,31.5,44.0,46.3,0.28651,Medium,Medium,yes
+299,Bhanu Dhading Lower Secondary School,NP47716,Dhading,bagmati,39.2,45.0,36.2,27.6,46.6,0.278728,Medium,Low,no
+215,Janata Gulmi Secondary School,NP61224,Gulmi,lumbini,34.4,38.9,36.1,56.2,43.8,0.276695,Medium,Medium,yes
+279,Janapriya Udayapur Community School,NP75049,Udayapur,province1,29.0,35.6,55.5,34.2,50.2,0.264339,Low,Medium,no
+244,Jana Jyoti Lamjung Basic School,NP78211,Lamjung,gandaki,34.7,35.0,37.3,53.8,42.2,0.261089,Low,Medium,no
+289,Rastriya Rasuwa Secondary School,NP32238,Rasuwa,bagmati,30.7,52.7,30.6,35.2,46.8,0.257921,Low,Low,yes
+235,Saraswati Gorkha Lower Secondary School,NP28867,Gorkha,gandaki,25.7,36.8,48.8,43.3,49.0,0.244968,Low,Medium,no
+287,Janata Nuwakot Lower Secondary School,NP96164,Nuwakot,bagmati,31.8,41.1,43.4,18.3,42.3,0.223839,Low,Low,yes
+291,Himalaya Makwanpur Lower Secondary School,NP71189,Makwanpur,bagmati,27.1,39.0,47.1,20.6,44.2,0.208649,Low,Low,yes
+298,Pragati Sindhuli Community School,NP20416,Sindhuli,bagmati,35.1,32.4,24.9,42.4,47.4,0.202834,Low,Low,yes
+296,Gyanodaya Nuwakot Community School,NP73922,Nuwakot,bagmati,28.6,36.4,45.3,20.1,35.1,0.188182,Low,Low,yes
+292,Himalaya Sindhupalchok Ma Vi,NP86185,Sindhupalchok,bagmati,26.0,53.5,28.7,22.6,30.0,0.184131,Low,Low,yes
+293,Saraswati Rasuwa Basic School,NP59791,Rasuwa,bagmati,28.7,45.5,24.4,32.1,33.6,0.177834,Low,Low,yes
+300,Navajyoti Dhading Ma Vi,NP44522,Dhading,bagmati,19.4,40.0,42.6,42.4,29.9,0.175834,Low,Low,yes
+286,Bal Kalyan Nuwakot Primary School,NP99163,Nuwakot,bagmati,22.4,45.8,36.0,31.1,29.7,0.17309,Low,Low,yes
+297,Tribhuvan Sindhuli Basic School,NP59260,Sindhuli,bagmati,21.0,54.0,25.0,30.5,30.5,0.162355,Low,Low,yes
+294,Saraswati Ramechhap Primary School,NP57197,Ramechhap,bagmati,18.6,45.4,25.7,32.2,30.7,0.122999,Low,Low,yes
+295,Pragati Dolakha Ma Vi,NP34673,Dolakha,bagmati,29.1,26.9,26.7,40.4,23.8,0.119365,Low,Low,yes
